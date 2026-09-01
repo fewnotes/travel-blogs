@@ -1,4 +1,13 @@
 :root {
+  color-scheme: dark;
+  --bg: #15181c;
+  --text: #ecebe8;
+  --muted: #9a978f;
+  --accent: #4fb8d9;
+  --border: #2f3237;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
   --bg: #fbfaf8;
   --text: #1f1f1f;
   --muted: #6b6b6b;
@@ -12,15 +21,46 @@ body {
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 .site-header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   padding: 1.25rem 1.5rem;
   border-bottom: 1px solid var(--border);
 }
 .site-header nav a { margin-left: 1.25rem; color: var(--muted); text-decoration: none; }
 .site-header nav a:hover { color: var(--accent); }
+.seg-switch {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.seg-switch button {
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.65rem;
+  cursor: pointer;
+}
+.seg-switch button:first-child { border-right: 1px solid var(--border); }
+.seg-switch button.active { background: var(--text); color: var(--bg); cursor: default; }
+.seg-switch button.active:hover { background: var(--text); }
+/* Light/Dark buttons always look like their own theme, regardless of which
+   theme is currently active, so the toggle reads correctly either way. */
+#theme-light-btn.active, #theme-light-btn.active:hover {
+  background: #fbfaf8;
+  color: #1f1f1f;
+  box-shadow: inset 0 0 0 2px var(--text);
+}
+#theme-dark-btn.active, #theme-dark-btn.active:hover {
+  background: #15181c;
+  color: #ecebe8;
+  box-shadow: inset 0 0 0 2px var(--text);
+}
 main { padding: 1.5rem; }
 h1, h2, h3 { line-height: 1.3; }
 a { color: var(--accent); }
