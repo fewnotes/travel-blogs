@@ -12,28 +12,16 @@
     } catch (e) {
       document.documentElement.setAttribute("data-theme", "dark");
     }
-    try {
-      var savedFont = localStorage.getItem("travelBlog.fontTest");
-      if (savedFont === "A" || savedFont === "B" || savedFont === "C") {
-        document.documentElement.setAttribute("data-font-test", savedFont);
-      }
-    } catch (e) {}
   })();
 </script>
 <link rel="stylesheet" href="/assets/css/style.css?v={{ site.github.build_revision }}">
-<!-- TEMPORARY: font A/B/C comparison, remove once a font is chosen -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Inter:wght@400;600;700&family=Lora:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap">
 </head>
 <body>
 <header class="site-header">
   <nav>
     <a href="/">trips</a>
   </nav>
-  <div class="seg-switch" role="group" aria-label="Font test (temporary)" title="Temporary font comparison">
-    <button id="font-a-btn" type="button">A</button>
-    <button id="font-b-btn" type="button">B</button>
-    <button id="font-c-btn" type="button">C</button>
-  </div>
   <div class="seg-switch" role="group" aria-label="Page theme">
     <button id="theme-light-btn" type="button">☀ Light</button>
     <button id="theme-dark-btn" type="button">☾ Dark</button>
@@ -43,6 +31,5 @@
 {{ content }}
 </main>
 <script src="/assets/js/theme.js?v={{ site.github.build_revision }}"></script>
-<script src="/assets/js/font-test.js?v={{ site.github.build_revision }}"></script>
 </body>
 </html>

@@ -5,6 +5,7 @@
   --muted: #9a978f;
   --accent: #4fb8d9;
   --border: #2f3237;
+  --img-border: #f2f1ee;
 }
 :root[data-theme="light"] {
   color-scheme: light;
@@ -13,16 +14,12 @@
   --muted: #6b6b6b;
   --accent: #1f6f8b;
   --border: #e3e0da;
+  --img-border: #1f1f1f;
 }
 * { box-sizing: border-box; }
-/* TEMPORARY: font A/B/C comparison, remove this block once a font is chosen */
-[data-font-test="A"] body { font-family: 'Inter', -apple-system, sans-serif; }
-[data-font-test="A"] h1, [data-font-test="A"] h2, [data-font-test="A"] h3 { font-family: 'Fraunces', serif; }
-[data-font-test="B"] body, [data-font-test="B"] h1, [data-font-test="B"] h2, [data-font-test="B"] h3 { font-family: 'Inter', -apple-system, sans-serif; }
-[data-font-test="C"] body, [data-font-test="C"] h1, [data-font-test="C"] h2, [data-font-test="C"] h3 { font-family: 'Lora', serif; }
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: 'Lora', Georgia, 'Times New Roman', serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
@@ -70,7 +67,7 @@ main { padding: 1.5rem; }
 main > p, main > blockquote.wp-block-quote, main > ul, main > ol, main > h1, main > h2, main > h3 {
   max-width: 700px;
 }
-h1, h2, h3 { line-height: 1.3; }
+h1, h2, h3 { line-height: 1.3; font-weight: 600; }
 h1 { font-size: 1.6rem; margin: 0 0 0.75rem; }
 h2 { font-size: 1.3rem; margin: 1.75rem 0 0.75rem; }
 h3 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
@@ -90,7 +87,7 @@ blockquote.wp-block-quote {
   max-width: 100%;
   margin: 0 6px 6px 0;
 }
-.wp-block-image img { height: 220px; width: auto; max-width: 100%; border-radius: 6px; display: block; border: 2px solid var(--muted); }
+.wp-block-image img { height: 220px; width: auto; max-width: 100%; display: block; border: 4px solid var(--img-border); }
 .wp-element-caption {
   font-size: 0.85rem;
   color: var(--muted);
@@ -99,6 +96,22 @@ blockquote.wp-block-quote {
 }
 hr.wp-block-separator { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 iframe { display: block; margin: 1.25rem 0; max-width: 100%; }
+main table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+main th, main td {
+  padding: 0.5rem 0.85rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  white-space: nowrap;
+}
+main th { font-weight: 600; }
+main tbody tr:nth-child(even) { background: color-mix(in srgb, var(--text) 5%, transparent); }
 .trip-list { list-style: none; padding: 0; }
 .trip-list li {
   padding: 1rem 0;
