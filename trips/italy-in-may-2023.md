@@ -13,113 +13,21 @@ permalink: /italy-in-may-2023/
 
 <h2 class="wp-block-heading"><strong>trip at a glance</strong></h2>
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<ul class="wp-block-list">
-<li><strong>day 0</strong> · Sun, May 14
-<ul class="wp-block-list">
-<li>YVR → YUL → CDG → FLR</li>
-</ul>
-</li>
+| Date | Day | Location |
+| --- | --- | --- |
+| Sun, May 14 | 0 | YVR → YUL → CDG → FLR |
+| Mon, May 15 | 1 | Florence |
+| Tue, May 16 | 2 | Florence |
+| Wed, May 17 | 3 | Florence → San Gimignano → Volterra → Pienza |
+| Thu, May 18 | 4 | Pienza → Montepulciano → Siena → Pienza |
+| Fri, May 19 | 5 | Pienza → Bologna · Maranello (Ferrari) · Modena |
+| Sat, May 20 | 6 | Modena → Pisa → Massa |
+| Sun, May 21 | 7 | Cinque Terre · Massa |
+| Mon, May 22 | 8 | Massa → Lavagna |
+| Tue, May 23 | 9 | Portofino, Santa Margherita Ligure · Lavagna |
+| Wed, May 24 | 10 | Lavagna → FLR → AMS → YVR |
 
-<li><strong>day 1</strong> · Mon, May 15
-<ul class="wp-block-list">
-<li>landed at FLR · explored Florence</li>
-
-<li>stayed in Florence</li>
-</ul>
-</li>
-
-<li><strong>day 2</strong> · Tue, May 16
-<ul class="wp-block-list">
-<li>explored Florence</li>
-
-<li>stayed in Florence</li>
-</ul>
-</li>
-
-<li><strong>day 3</strong> · Wed, May 17
-<ul class="wp-block-list">
-<li>picked up rental car</li>
-
-<li>drove Florence → San Gimignano → Volterra → Pienza (~215km)</li>
-
-<li>stayed in Pienza</li>
-</ul>
-</li>
-
-<li><strong>day 4</strong> · Thu, May 18
-<ul class="wp-block-list">
-<li>drove Pienza → Montepulciano → Siena → Pienza (~145km)</li>
-
-<li>stayed in Pienza</li>
-</ul>
-</li>
-
-<li><strong>day 5</strong> · Fri, May 19
-<ul class="wp-block-list">
-<li>drove Pienza → Bologna (~220km)</li>
-
-<li>dropped off rental car · taxi to Modena</li>
-
-<li>Ferrari factory + museum tour in Maranello</li>
-
-<li>explored Modena</li>
-
-<li>stayed in Modena</li>
-</ul>
-</li>
-
-<li><strong>day 6</strong> · Sat, May 20
-<ul class="wp-block-list">
-<li>picked up rental car</li>
-
-<li>drove Modena → Pisa → Massa (~250km)</li>
-
-<li>stayed in Massa</li>
-</ul>
-</li>
-
-<li><strong>day 7</strong> · Sun, May 21
-<ul class="wp-block-list">
-<li>visited Cinque Terre (~75km)</li>
-
-<li>stayed in Massa</li>
-</ul>
-</li>
-
-<li><strong>day 8</strong> · Mon, May 22
-<ul class="wp-block-list">
-<li>drove Massa → Lavagna (~80km)</li>
-
-<li>stayed in Lavagna</li>
-</ul>
-</li>
-
-<li><strong>day 9</strong> · Tue, May 23
-<ul class="wp-block-list">
-<li>drove Lavagna → Portofino → Santa Margherita Ligure → Lavagna (~50km)</li>
-
-<li>stayed in Lavagna</li>
-</ul>
-</li>
-
-<li><strong>day 10</strong> · Wed, May 24
-<ul class="wp-block-list">
-<li>drove Lavagna → FLR (~200km)</li>
-
-<li>dropped off rental car</li>
-
-<li>FLR → AMS → YVR</li>
-</ul>
-</li>
-</ul>
-</div>
-
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=1eyaSjSn60Ehyuh_HUMIhpSkfN0IjWfw&ehbc=2E312F&noprof=1&w=640&h=480" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

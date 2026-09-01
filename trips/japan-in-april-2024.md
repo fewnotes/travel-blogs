@@ -11,123 +11,25 @@ permalink: /japan-in-april-2024/
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<h2 class="wp-block-heading"><strong>trip at a glance</strong></h2>
+## trip at a glance
 
-<ul class="wp-block-list">
-<li><strong>day 0 · Thu Apr 4</strong>
-<ul class="wp-block-list">
-<li>YVR → NRT</li>
-</ul>
-</li>
+| Date | Day | Location |
+| --- | --- | --- |
+| Thu, Apr 4 | 0 | YVR → NRT |
+| Fri, Apr 5 | 1 | Tokyo (Shibuya) |
+| Sat, Apr 6 | 2 | Tokyo · Shibuya, Harajuku, Shinjuku, Akihabara, Odaiba |
+| Sun, Apr 7 | 3 | Chureito Pagoda (Mt Fuji viewpoint) · Shibuya |
+| Mon, Apr 8 | 4 | Tokyo → Osaka · Dotonbori |
+| Tue, Apr 9 | 5 | Osaka · Osaka Castle, Namba, Shinsekai |
+| Wed, Apr 10 | 6 | Universal Studios · Osaka |
+| Thu, Apr 11 | 7 | Osaka → Kyoto · Shitenno-ji, Heian-jingu |
+| Fri, Apr 12 | 8 | Kyoto · Fushimi Inari, Arashiyama, Gion |
+| Sat, Apr 13 | 9 | Kyoto · Fushimi Inari (pre-dawn), Arashiyama, Nijo Castle |
+| Sun, Apr 14 | 10 | Kyoto · Kinkakuji, Toji-in, Nijo Castle, Kyoto Gyoen |
+| Mon, Apr 15 | 11 | Kyoto → Tokyo · Senso-ji, Asakusa |
+| Tue, Apr 16 | 12 | NRT → YVR |
 
-<li><strong>day 1 · Fri Apr 5</strong>
-<ul class="wp-block-list">
-<li>landed at NRT</li>
-
-<li>stayed in Shibuya</li>
-</ul>
-</li>
-
-<li><strong>day 2 · Sat Apr 6</strong>
-<ul class="wp-block-list">
-<li>explored Tokyo → Shibuya · Harajuku · Shinjuku · Akihabara · Odaiba</li>
-
-<li>stayed in Shibuya</li>
-</ul>
-</li>
-
-<li><strong>day 3 · Sun Apr 7</strong>
-<ul class="wp-block-list">
-<li>day trip → Chureito Pagoda (Mt Fuji viewpoint)</li>
-
-<li>stayed in Shibuya</li>
-</ul>
-</li>
-
-<li><strong>day 4 · Mon Apr 8</strong>
-<ul class="wp-block-list">
-<li>Tokyo → Osaka</li>
-
-<li>explored Osaka → Dotonbori</li>
-
-<li>stayed in Osaka</li>
-</ul>
-</li>
-
-<li><strong>day 5 · Tue Apr 9</strong>
-<ul class="wp-block-list">
-<li>explored Osaka → Osaka Castle · Namba · Shinsekai</li>
-
-<li>stayed in Osaka</li>
-</ul>
-</li>
-
-<li><strong>day 6 · Wed Apr 10</strong>
-<ul class="wp-block-list">
-<li>day trip → Universal Studios</li>
-
-<li>stayed in Osaka</li>
-</ul>
-</li>
-
-<li><strong>day 7 · Thu Apr 11</strong>
-<ul class="wp-block-list">
-<li>Osaka → Kyoto</li>
-
-<li>explored Kyoto → Shitenno-ji · Heian-jingu</li>
-
-<li>stayed in Kyoto</li>
-</ul>
-</li>
-
-<li><strong>day 8 · Fri Apr 12</strong>
-<ul class="wp-block-list">
-<li>explored Kyoto → Fushimi Inari · Arashiyama · Gion</li>
-
-<li>stayed in Kyoto</li>
-</ul>
-</li>
-
-<li><strong>day 9 · Sat Apr 13</strong>
-<ul class="wp-block-list">
-<li>explored Kyoto → Fushimi Inari (pre-dawn) · Arashiyama · Nijo Castle</li>
-
-<li>stayed in Kyoto</li>
-</ul>
-</li>
-
-<li><strong>day 10 · Sun Apr 14</strong>
-<ul class="wp-block-list">
-<li>explored Kyoto → Kinkakuji · Toji-in · Nijo Castle · Kyoto Gyoen</li>
-
-<li>stayed in Kyoto</li>
-</ul>
-</li>
-
-<li><strong>day 11 · Mon Apr 15</strong>
-<ul class="wp-block-list">
-<li>Kyoto → Tokyo</li>
-
-<li>explored Tokyo → Senso-ji, Asakusa</li>
-
-<li>stayed in Asakusa</li>
-</ul>
-</li>
-
-<li><strong>day 12 · Tue Apr 16</strong>
-<ul class="wp-block-list">
-<li>NRT → YVR</li>
-</ul>
-</li>
-</ul>
-</div>
-
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=1xxAOFAeKNpueCtvLIjGqWgE8Uvf9Pd0&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 

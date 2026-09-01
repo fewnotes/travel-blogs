@@ -13,105 +13,21 @@ permalink: /iceland-in-june-2022/
 
 <h2 class="wp-block-heading">trip at a glance</h2>
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<ul class="wp-block-list">
-<li><strong>day 0</strong> · Mon, Jun 6
-<ul class="wp-block-list">
-<li>SEA → KEF</li>
-</ul>
-</li>
+| Date | Day | Location |
+| --- | --- | --- |
+| Mon, Jun 6 | 0 | SEA → KEF |
+| Tue, Jun 7 | 1 | Selfoss, Kerið, Gullfoss, Haifoss, Hjalparfoss · Vík |
+| Wed, Jun 8 | 2 | Skógafoss, Seljalandsfoss, Dyrhólaey, Þakgil, Eldhraun, Fjaðrárgljúfur · Kirkjubæjarklaustur |
+| Thu, Jun 9 | 3 | Skaftafell, Fjallsárlón, Jökulsárlón, Diamond Beach · Höfn |
+| Fri, Jun 10 | 4 | Vestrahorn, Seyðisfjörður, Lake Mývatn · Mývatn |
+| Sat, Jun 11 | 5 | Húsavík, Krafla · Mývatn |
+| Sun, Jun 12 | 6 | Goðafoss, Akureyri, Siglufjörður, Hofsós, Skagafjörður · Skagafjörður |
+| Mon, Jun 13 | 7 | Grundarfjörður, Kirkjufell, Hellnar · Hellnar |
+| Tue, Jun 14 | 8 | Kirkjufell, Arnarstapi, Borgarnes, Reykjavík |
+| Wed, Jun 15 | 9 | Hallgrímskirkja, Þingvellir, Silica Lagoon · Reykjavík |
+| Thu, Jun 16 | 10 | Blue Lagoon · KEF → SEA |
 
-<li><strong>day 1</strong> · Tue, Jun 7
-<ul class="wp-block-list">
-<li>landed at KEF · picked up rental car</li>
-
-<li>visited Selfoss, Kerið, Gullfoss, Haifoss, Hjalparfoss</li>
-
-<li>stayed in Vík · drove ~475km</li>
-</ul>
-</li>
-
-<li><strong>day 2</strong> · Wed, Jun 8
-<ul class="wp-block-list">
-<li>visited Skógafoss, Seljalandsfoss, Dyrhólaey,  Þakgil, Eldhraun, Fjaðrárgljúfur</li>
-
-<li>stayed in Kirkjubæjarklaustur · drove ~275km</li>
-</ul>
-</li>
-
-<li><strong>day 3</strong> · Thu, Jun 9
-<ul class="wp-block-list">
-<li>visited Skaftafell, Fjallsárlón, Jökulsárlón, Diamond Beach</li>
-
-<li>stayed in Höfn · drove ~350km</li>
-</ul>
-</li>
-
-<li><strong>day 4</strong> · Fri, Jun 10
-<ul class="wp-block-list">
-<li>visited Vestrahorn, Seyðisfjörður, Lake Mývatn</li>
-
-<li>stayed in Mývatn · drove ~475km</li>
-</ul>
-</li>
-
-<li><strong>day 5</strong> · Sat, Jun 11
-<ul class="wp-block-list">
-<li>visited Húsavík, Krafla · drove ~175km</li>
-
-<li>stayed in Mývatn</li>
-</ul>
-</li>
-
-<li><strong>day 6</strong> · Sun, Jun 12
-<ul class="wp-block-list">
-<li>visited Goðafoss, Akureyri, Siglufjörður, Hofsós, Skagafjörður</li>
-
-<li>stayed in Skagafjörður · drove ~250km</li>
-</ul>
-</li>
-
-<li><strong>day 7</strong> · Mon, Jun 13
-<ul class="wp-block-list">
-<li>visited Grundarfjörður, Kirkjufell, Hellnar</li>
-
-<li>stayed in Hellnar · drove ~400km</li>
-</ul>
-</li>
-
-<li><strong>day 8</strong> · Tue, Jun 14
-<ul class="wp-block-list">
-<li>visited Kirkjufell, Arnarstapi, Borgarnes, Reykjavík</li>
-
-<li>stayed in Reykjavík · drove ~350km</li>
-</ul>
-</li>
-
-<li><strong>day 9</strong> · Wed, Jun 15
-<ul class="wp-block-list">
-<li>visited Hallgrímskirkja, Þingvellir, Silica Lagoon</li>
-
-<li>stayed in Reykjavík · drove ~150km</li>
-</ul>
-</li>
-
-<li><strong>day 10</strong> · Thu, Jun 16
-<ul class="wp-block-list">
-<li>visited Blue Lagoon</li>
-
-<li>dropped off rental car · drove ~100km</li>
-
-<li>KEF → SEA</li>
-</ul>
-</li>
-</ul>
-</div>
-
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=1cNGcrL0a21B6miMkdEIiicgl0pp3SdA&ehbc=2E312F&noprof=1&w=640&h=480" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 

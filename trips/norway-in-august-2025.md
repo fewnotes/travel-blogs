@@ -15,27 +15,30 @@ permalink: /norway-in-august-2025/
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<h2 class="wp-block-heading"><strong>trip at a glance</strong></h2>
+## trip at a glance
 
-<p><strong>day 0</strong> · Sun, Aug 17<br> - departed SEA at 7pm → KEF → OSL → BGO<br><strong>day 1</strong> · Mon, Aug 18<br> - landed at Bergen about 8pm<br> - stayed in Bergen<br><strong>day 2</strong> · Tue, Aug 19<br> - explored Bergen<br> - stayed in Bergen<br><strong>day 3</strong> · Wed, Aug 20<br> - picked up rental car<br> - drove to Olden (~350km)<br> - stayed at Olden<br><strong>day 4</strong> · Thu, Aug 21<br> - drove to Geiranger (~100km)<br> - stayed in Geiranger<br><strong>day 5</strong> · Fri, Aug 22<br> - drove to Ålesund and back (~250km)<br> - stayed in Geiranger<br><strong>day 6</strong> · Sat, Aug 23<br> - drove to Sogndal (~300km)<br> - stayed in Sogndal<br><strong>day 7</strong> · Sun, Aug 24<br> - drove to Bergen (~250km)<br> - stayed in Bergen<br><strong>day 8</strong> · Mon, Aug 25<br> - explored Bergen<br> - stayed in Bergen<br><strong>day 9</strong> · Tue, Aug 26<br> - dropped off rental car<br> - flew Bergen → Oslo → Bodø → Svolvær<br> - picked up rental car<br> - stayed in Svolvær<br><strong>day 10</strong> · Wed, Aug 27<br> - explored Svolvær (~150km)<br> - stayed in Svolvær<br><strong>day 11</strong> · Thu, Aug 28<br> - explored Henningsvær<br> - drove to Nusfjord (~200km)<br> - explored Nusfjord<br> - stayed in Nusfjord<br><strong>day 12</strong> · Fri, Aug 29<br> - explored Reine, Hamnøy, Sakrisøy and back (~50km)<br> - stayed in Nusfjord<br><strong>day 13</strong> · Sat, Aug 30<br> - explored Reine, Hamnøy, Sakrisøy and back (~100km)<br> - stayed at Nusfjord<br><strong>day 14</strong> · Sun, Aug 31<br> - drove around Lofoten (~150km)<br> - dropped off rental car<br> - flew Svolvær → Bodø → Oslo<br> - stayed in Oslo<br><strong>day 15</strong> · Mon, Sep 1<br> - explored Oslo<br> - departed OSL → KEF → SEA</p>
-</div>
+| Date | Day | Location |
+| --- | --- | --- |
+| Sun, Aug 17 | 0 | SEA → KEF → OSL → BGO |
+| Mon, Aug 18 | 1 | Bergen |
+| Tue, Aug 19 | 2 | Bergen |
+| Wed, Aug 20 | 3 | Bergen → Olden |
+| Thu, Aug 21 | 4 | Olden → Geiranger |
+| Fri, Aug 22 | 5 | Ålesund day trip · Geiranger |
+| Sat, Aug 23 | 6 | Geiranger → Sogndal |
+| Sun, Aug 24 | 7 | Sogndal → Bergen |
+| Mon, Aug 25 | 8 | Bergen |
+| Tue, Aug 26 | 9 | Bergen → Svolvær (via Oslo, Bodø) |
+| Wed, Aug 27 | 10 | Svolvær |
+| Thu, Aug 28 | 11 | Henningsvær → Nusfjord |
+| Fri, Aug 29 | 12 | Reine, Hamnøy, Sakrisøy · Nusfjord |
+| Sat, Aug 30 | 13 | Reine, Hamnøy, Sakrisøy · Nusfjord |
+| Sun, Aug 31 | 14 | Svolvær → Bodø → Oslo |
+| Mon, Sep 1 | 15 | Oslo · OSL → KEF → SEA |
 
-<div class="wp-block-column">
-<div class="wp-block-columns">
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=1tM_4nuu8xetT9NbFj2iHcrT6m4RnZT4&ehbc=2E312F&noprof=1&w=640&h=480" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=174qo4QRRqhzyw5oRUYXk5eNwqd4irx0&ehbc=2E312F&noprof=1&w=640&h=480" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
-</div>
-</div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 

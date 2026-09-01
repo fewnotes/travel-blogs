@@ -15,15 +15,25 @@ permalink: /switzerland-in-september-2024/
 
 <h2 class="wp-block-heading">trip at a glance</h2>
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<p>day 0 · Sat, Sep 7<br> — departed Seattle (SEA)<br>day 1 · Sun, Sep 8<br> — arrived Frankfurt (FRA) → (train) → Zürich<br>day 2 · Mon, Sep 9<br> — explored Zürich<br>day 3 · Tue, Sep 10<br> — Zürich → (train) → Mürren<br>day 4 · Wed, Sep 11<br> — explored Mürren<br>day 5 · Thu, Sep 12<br> — explored Mürren<br>day 6 · Fri, Sep 13<br> — explored Mürren<br>day 7 · Sat, Sep 14<br> — Mürren → (train) → Zermatt<br>day 8 · Sun, Sep 15<br> — explored Zermatt<br>day 9 · Mon, Sep 16<br> — explored Zermatt<br>day 10 · Tue, Sep 17<br> — Zermatt → (train) → Lucerne<br>day 11 · Wed, Sep 18<br> — explored Lucerne<br>day 12 · Thu, Sep 19<br> — explored Lucerne<br>day 13 · Fri, Sep 20<br> — Lucerne → (train) → Frankfurt<br>day 14 · Sat, Sep 21<br> — Frankfurt (FRA) → Vancouver (YVR) → Seattle (SEA)</p>
-</div>
+| Date | Day | Location |
+| --- | --- | --- |
+| Sat, Sep 7 | 0 | Departed Seattle (SEA) |
+| Sun, Sep 8 | 1 | Frankfurt (FRA) → (train) → Zürich |
+| Mon, Sep 9 | 2 | Zürich |
+| Tue, Sep 10 | 3 | Zürich → (train) → Mürren |
+| Wed, Sep 11 | 4 | Mürren |
+| Thu, Sep 12 | 5 | Mürren |
+| Fri, Sep 13 | 6 | Mürren |
+| Sat, Sep 14 | 7 | Mürren → (train) → Zermatt |
+| Sun, Sep 15 | 8 | Zermatt |
+| Mon, Sep 16 | 9 | Zermatt |
+| Tue, Sep 17 | 10 | Zermatt → (train) → Lucerne |
+| Wed, Sep 18 | 11 | Lucerne |
+| Thu, Sep 19 | 12 | Lucerne |
+| Fri, Sep 20 | 13 | Lucerne → (train) → Frankfurt |
+| Sat, Sep 21 | 14 | Frankfurt (FRA) → Vancouver (YVR) → Seattle (SEA) |
 
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=13vFCX53G7Pq07X-q0ELEcpUWYOzIoQ4&ehbc=2E312F&noprof=1&w=640&h=480" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 

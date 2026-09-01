@@ -13,109 +13,21 @@ permalink: /iceland-in-december-2025/
 
 <h3 class="wp-block-heading">trip at a glance</h3>
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<ul class="wp-block-list">
-<li><strong>day 0</strong> · Sun, Dec 7
-<ul class="wp-block-list">
-<li>YVR → KEF</li>
-</ul>
-</li>
+| Date | Day | Location |
+| --- | --- | --- |
+| Sun, Dec 7 | 0 | YVR → KEF |
+| Mon, Dec 8 | 1 | South Iceland · Seljalandsfoss, Skógafoss · Hvolsvöllur |
+| Tue, Dec 9 | 2 | Þórsmörk super jeep tour · Eyjafjallajökull · Hvolsvöllur |
+| Wed, Dec 10 | 3 | Southeast Iceland · Vatnajökull / Skaftafell, Fjallsárlón · Höfn |
+| Thu, Dec 11 | 4 | Stokksnes / Vestrahorn · Höfn |
+| Fri, Dec 12 | 5 | Vík · Grundarfjörður |
+| Sat, Dec 13 | 6 | Kirkjufell, Stykkishólmur · Grundarfjörður |
+| Sun, Dec 14 | 7 | Búðardalur |
+| Mon, Dec 15 | 8 | Dalahestar horse riding · Þingeyrakirkja · Búðardalur |
+| Tue, Dec 16 | 9 | Reykjavík · Perlan, Hallgrímskirkja, Laugavegur |
+| Wed, Dec 17 | 10 | Sky Lagoon · KEF → YVR |
 
-<li><strong>day 1</strong> · Mon, Dec 8
-<ul class="wp-block-list">
-<li>landed at KEF · picked up rental car</li>
-
-<li>drove to south Iceland (~200km) · visited Seljalandsfoss, Skógafoss</li>
-
-<li>stayed in Hvolsvöllur</li>
-</ul>
-</li>
-
-<li><strong>day 2</strong> · Tue, Dec 9
-<ul class="wp-block-list">
-<li>Þórsmörk super jeep tour → Eyjafjallajökull</li>
-
-<li>stayed in Hvolsvöllur</li>
-</ul>
-</li>
-
-<li><strong>day 3</strong> · Wed, Dec 10
-<ul class="wp-block-list">
-<li>drove to southeast Iceland (~375km) · visited Vatnajökull / Skaftafell, Fjallsárlón</li>
-
-<li>stayed in Höfn</li>
-</ul>
-</li>
-
-<li><strong>day 4</strong> · Thu, Dec 11
-<ul class="wp-block-list">
-<li>visited Stokksnes / Vestrahorn</li>
-
-<li>stayed in Höfn</li>
-</ul>
-</li>
-
-<li><strong>day 5</strong> · Fri, Dec 12
-<ul class="wp-block-list">
-<li>drove to west Iceland (~650km, long drive) · visited Vík</li>
-
-<li>stayed in Grundarfjörður</li>
-</ul>
-</li>
-
-<li><strong>day 6</strong> · Sat, Dec 13
-<ul class="wp-block-list">
-<li>visited Kirkjufell, Stykkishólmur</li>
-
-<li>stayed in Grundarfjörður</li>
-</ul>
-</li>
-
-<li><strong>day 7</strong> · Sun, Dec 14
-<ul class="wp-block-list">
-<li>drove to Búðardalur (~150km)</li>
-
-<li>stayed in Búðardalur</li>
-</ul>
-</li>
-
-<li><strong>day 8</strong> · Mon, Dec 15
-<ul class="wp-block-list">
-<li>Dalahestar horse riding</li>
-
-<li>visited Þingeyrakirkja (~250km round trip)</li>
-
-<li>stayed in Búðardalur</li>
-</ul>
-</li>
-
-<li><strong>day 9</strong> · Tue, Dec 16
-<ul class="wp-block-list">
-<li>drove to Reykjavík (~200km)</li>
-
-<li>visited Perlan, Hallgrímskirkja, Laugavegur</li>
-
-<li>stayed in Reykjavík</li>
-</ul>
-</li>
-
-<li><strong>day 10</strong> · Wed, Dec 17
-<ul class="wp-block-list">
-<li>visited Sky Lagoon</li>
-
-<li>dropped off rental car</li>
-
-<li>KEF → YVR</li>
-</ul>
-</li>
-</ul>
-</div>
-
-<div class="wp-block-column">
 <iframe src="https://www.google.com/maps/d/embed?mid=1ZEUBzOiX1aWZemnxBR2YTaC-CXtcRcM&ehbc=2E312F&noprof=1&w=640&h=480" width="640" height="480" style="max-width:100%;border:0;"></iframe>
-</div>
-</div>
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
