@@ -3,22 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ page.title }}{% if page.title %} · {% endif %}{{ site.title }}</title>
+<title>{{ page.title | default: "trips" }}</title>
 <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 <header class="site-header">
-  <a class="site-title" href="/">{{ site.title }}</a>
   <nav>
     <a href="/">trips</a>
-    <a href="/about/">about</a>
   </nav>
 </header>
 <main>
 {{ content }}
 </main>
-<footer class="site-footer">
-  <p>few notes on travel</p>
-</footer>
 </body>
 </html>
