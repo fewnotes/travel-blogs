@@ -1,0 +1,9 @@
+title: few notes on travel
+description: trip write-ups and photos
+markdown: kramdown
+kramdown:
+  input: GFM
+  html_to_native: true
+permalink: /:title/
+exclude:
+  - README.md
