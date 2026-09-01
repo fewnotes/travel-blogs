@@ -36,11 +36,10 @@ blockquote.wp-block-quote {
 .wp-block-image {
   display: inline-block;
   vertical-align: top;
-  width: 220px;
-  max-width: 45%;
+  max-width: 100%;
   margin: 0 12px 12px 0;
 }
-.wp-block-image img { width: 100%; height: auto; border-radius: 6px; display: block; }
+.wp-block-image img { height: 220px; width: auto; max-width: 100%; border-radius: 6px; display: block; }
 .wp-element-caption {
   font-size: 0.85rem;
   color: var(--muted);
