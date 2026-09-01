@@ -15,6 +15,11 @@
   --border: #e3e0da;
 }
 * { box-sizing: border-box; }
+/* TEMPORARY: font A/B/C comparison, remove this block once a font is chosen */
+[data-font-test="A"] body { font-family: 'Inter', -apple-system, sans-serif; }
+[data-font-test="A"] h1, [data-font-test="A"] h2, [data-font-test="A"] h3 { font-family: 'Fraunces', serif; }
+[data-font-test="B"] body, [data-font-test="B"] h1, [data-font-test="B"] h2, [data-font-test="B"] h3 { font-family: 'Inter', -apple-system, sans-serif; }
+[data-font-test="C"] body, [data-font-test="C"] h1, [data-font-test="C"] h2, [data-font-test="C"] h3 { font-family: 'Lora', serif; }
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
